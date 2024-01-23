@@ -1,16 +1,23 @@
-### Hi there 👋
+<h1>Hi, I'm Behnam! <br/><a href="https://github.com/bvosoogh">Full Stack Developer</a>, <a href="https://www.linkedin.com/in/bvosoogh/">Mobile Application Developer</a></h1>
 
-<!--
-**Behnam-Vosoogh/Behnam-Vosoogh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Software Development Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>Data Structures and Algorithms Practice</b>
+  - [Algorithms Practice in Python]
+- <b>Full Stack Web App (React, Node.js, Azure, and Machine Learning Components)</b>
+  -  <b><i>some text</b></i>
+- <b>PowerShell</b>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <b>C# (.NET Desktop Applications)</b>
+
+- <b>Python</b>
+
+
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="BehnamVosoogh | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
+[<img align="left" alt="BehnamVosoogh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[github]: https://github.com/bvosoogh
+[linkedin]: https://www.linkedin.com/in/behnam-vosoogh/
