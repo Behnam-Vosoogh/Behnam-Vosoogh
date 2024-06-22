@@ -1,7 +1,7 @@
 <h1>Hi, I'm Behnam Vosoogh!</h1>
 <p>I'm a highly motivated Full-Stack Developer with over 5 years of experience building web and mobile applications. I have a strong foundation in computer science principles and enjoy tackling challenging problems with innovative solutions. I'm proficient in various technologies including React, Node.js, Python, Java, Flutter, and more. I'm eager to contribute my skills and experience to a dynamic team and continuously learn and grow as a developer.</p>
 
-<a href="https://github.com/bvosoogh">View My Projects on GitHub</a>
+<a href="://github.com/Behnam-Vosoogh?tab=repositories">View My Projects on GitHub</a>
 <a href="https://www.linkedin.com/in/behnam-vosoogh/">Connect with me on LinkedIn</a>
 
 <h2>‍ Software Development Projects:</h2>
