@@ -8,8 +8,8 @@
 
 **Here are some of the projects I've been working on:**
 
-<h3>Full Stack Web App (React, Node.js, Azure, and Machine Learning Components)</h3>
-<p>Developed a full-stack web application using React for the frontend, Node.js for the backend, and Azure cloud services. The application utilized machine learning components to (briefly describe the functionality achieved by Machine Learning). **[Link to project repository (if public)]**</p>
+<!-- <h3>Full Stack Web App (React, Node.js, Azure, and Machine Learning Components)</h3>
+<p>Developed a full-stack web application using React for the frontend, Node.js for the backend, and Azure cloud services. The application utilized machine learning components to (briefly describe the functionality achieved by Machine Learning). **[Link to project repository (if public)]**</p> -->
 
 <h3>Retail Mobile Applications (Flutter)</h3>
 <p>Developed a suite of mobile applications (Android & iOS) using Flutter for the retail sector. The applications improved (mention specific improvements like inventory management, sales processes). **[Link to project repository (if public)]**</p>
