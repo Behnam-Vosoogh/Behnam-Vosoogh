@@ -4,7 +4,6 @@
 Hi! I'm Behnam, a highly motivated and results-oriented Full-Stack Developer with over 5 years of experience building user-friendly web and mobile applications. I have a strong foundation in software development principles and a proven track record of delivering innovative solutions. I'm passionate about continuous learning and staying current with industry trends.
 *   LinkedIn: <a href="https://www.linkedin.com/in/behnam-vosoogh/">Connect with me on LinkedIn</a>
 *   Email: behnam.vosoogh@outlook.com
-*   Portfolio: github.com/Behnam-Vosoogh/Behnam-Vosoogh
 *   View My Projects on GitHub:<a href="https://github.com/Behnam-Vosoogh?tab=repositories">View My Projects on GitHub</a>
 
 ## Skills
