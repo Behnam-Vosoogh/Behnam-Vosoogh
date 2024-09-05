@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm Behnam, a passionate Full Stack Developer with
 ---
 
 ## 📂 Featured Projects
-1. **[Responsive HTML Page](https://github.com/Behnam-Vosoogh/Responsive-HTML-Page)**
+1. **[Responsive HTML Page](https://github.com/Behnam-Vosoogh/Responsive_HTML_Page)**
    - A fully responsive HTML page showcasing modern web design techniques.
 
 2. **[Angular E-commerce App](https://github.com/Behnam-Vosoogh/Angular-Ecommerce)**
