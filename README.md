@@ -1,58 +1,58 @@
-# Behnam Vosoogh - Full-Stack Developer | Simulation & Software Engineering Specialist
+# Behnam Vosoogh, M.Sc., B.Ing, DEC
+### Full Stack Developer | Cloud Enthusiast | Mechanical Engineer
 
-Hi! I'm Behnam, a Full-Stack Developer with over 5 years of experience building scalable, user-friendly web and mobile applications. My background in Mechanical Engineering, specializing in simulation, provides me with a unique perspective on solving complex problems through code. I have a solid foundation in software development principles and am passionate about continuous learning and innovation.
+Welcome to my GitHub profile! I'm Behnam, a passionate Full Stack Developer with over 3 years of experience in designing, developing, and deploying scalable web and mobile applications. My expertise spans both frontend and backend technologies, with a strong focus on cloud computing and database management.
 
-* [Connect with me on LinkedIn](https://www.linkedin.com/in/behnam-vosoogh/)
-* Email: behnam.vosoogh@outlook.com
-* [View My Projects on GitHub](https://github.com/Behnam-Vosoogh?tab=repositories)
+---
 
-## Skills
+## 🌟 Key Skills
+- **Programming Languages**: Java, C#, Python, Dart, C++, JavaScript, SQL, PL/SQL
+- **Frontend Development**: React.js, Angular, Flutter, HTML5, CSS3, JavaScript
+- **Backend Development**: ASP.NET, PHP, Django, Flask, .NET Core, REST APIs
+- **Mobile Development**: Android (Java), iOS (Flutter)
+- **Database Technologies**: Microsoft SQL Server, Oracle, MySQL, MongoDB, Firebase
+- **Cloud & DevOps**: Microsoft Azure, IBM Cloud, AWS, Docker, Kubernetes, CI/CD pipelines
 
-**Programming Languages**: Java, C#, Python, Dart, C++, JavaScript, SQL, PL/SQL, Fortran, MATLAB  
-**Web Development**: HTML5, CSS3, Bootstrap, JavaScript, Node.js, React.js, Angular  
-**Mobile Development**: Android (Java, Flutter), iOS (Swift, Objective-C)  
-**Backend Development**: ASP.NET, PHP, Django, REST APIs  
-**Databases**: SQL Server, MySQL, Oracle, Firebase, MongoDB  
-**Cloud & DevOps**: Microsoft Azure, IBM Cloud, Azure DevOps, Git, GitHub  
-**Testing & Methodologies**: Automated Testing, Agile, Scrum, OOP, UML  
-**Simulation & Engineering**: MATLAB, Fortran, C++, Numerical Methods, Computational Fluid Dynamics (CFD)
+---
 
-## Experience
+## 📂 Featured Projects
+1. **[Responsive HTML Page](https://github.com/Behnam-Vosoogh/Responsive-HTML-Page)**
+   - A fully responsive HTML page showcasing modern web design techniques.
 
-### Freelance Full-Stack Developer | Self-Employed | April 2024 - Present
-- **Technologies**: .NET, Flutter, Angular, Firebase
-- Developed custom web and mobile applications for small businesses, improving client processes by 30%.
-- Contributed to open-source projects, enhancing UI/UX and backend functionality.
+2. **[Angular E-commerce App](https://github.com/Behnam-Vosoogh/Angular-Ecommerce)**
+   - An e-commerce web application developed using Angular, showcasing user authentication and dynamic product management.
 
-### Full-Stack Developer | Jesta I.S. | July 2021 - April 2024
-- **Technologies**: Angular, Flutter, Java, C#, PL/SQL, Azure
-- Improved system efficiency by 15% for a promotional management system using Angular and Flutter.
-- Enhanced backend data processing and analytics for supply chain management, increasing operational performance by 10%.
+3. **[Emotion Detection App](https://github.com/Behnam-Vosoogh/Emotion-Detection-App)**
+   - An AI-powered emotion detection application using Watson NLP to analyze user emotions from text inputs.
 
-### Mobile Application Developer Intern | Jesta I.S. | April 2021 - June 2021
-- Supported Android and iOS app development, gaining hands-on experience with full project lifecycles.
+---
 
-## Engineering & Simulation Projects
+## 📈 Experience
+- **Full Stack Developer** at Jesta I.S.
+   - Developed and maintained cloud-based applications using ASP.NET, Blazor, and Microsoft Azure.
+   - Implemented SQL database solutions, optimizing for performance and scalability.
+   
+- **Freelance Full Stack Developer**
+   - Worked on various full-stack projects, including mobile applications, database-driven websites, and AI-based solutions.
+   
+- **Mechanical Engineer**
+   - Specialized in simulation, writing code in Fortran and MATLAB for simulating solar power plants and nanofluid behaviors.
 
-### Solar Power Plant Simulation | Azad University (IAU) | 2012
-- Developed a simulation model for a novel solar power plant design using **Fortran** and **MATLAB**.
-- Optimized energy conversion processes, resulting in a 20% increase in predicted efficiency over traditional models.
+---
 
-### Nanofluid Simulation | Azad University (IAU) | 2016
-- Simulated the behavior of nanofluids under various conditions by writing a custom code in **C++**.
-- Analyzed heat transfer and fluid dynamics to explore potential applications in industrial cooling systems.
+## 📚 Education
+- **Master's Degree** in Mechanical Engineering
+- **Bachelor's Degree** in Mechanical Engineering
+- **DEC** in Computer Science Technology (Programming) from LaSalle College, Montreal
 
-## Education
+---
 
-**DEC, Computer Science** | Collège LaSalle, Montréal | 2018 - 2021  
-**M.Sc., Mechanical Engineering (Simulation Specialization)** | Azad University (IAU) | 2013 - 2016  
-**B.Sc., Mechanical Engineering (Simulation Specialization)** | Azad University (IAU) | 2006 - 2012
+## 📫 Let's Connect
+Feel free to reach out for collaboration or inquiries:
 
-## Let's Connect!
+- **LinkedIn**: [Behnam Vosoogh](https://www.linkedin.com/in/behnam-vosoogh)
+- **Email**: [behnam.vosoogh@example.com](mailto:behnam.vosoogh@example.com)
 
-I'm always eager to collaborate on exciting projects, especially those at the intersection of software engineering and simulation. Feel free to reach out!
+---
 
-* [Connect with me on LinkedIn](https://www.linkedin.com/in/behnam-vosoogh/)
-* Email: behnam.vosoogh@outlook.com
-* [Portfolio](https://github.com/Behnam-Vosoogh/Behnam-Vosoogh)
-* [View My Projects on GitHub](https://github.com/Behnam-Vosoogh?tab=repositories)
+**Thanks for visiting my GitHub profile!** 🚀
