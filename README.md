@@ -19,10 +19,10 @@ Welcome to my GitHub profile! I'm Behnam, a passionate Full Stack Developer with
 1. **[Responsive HTML Page](https://github.com/Behnam-Vosoogh/Responsive_HTML_Page)**
    - A fully responsive HTML page showcasing modern web design techniques.
 
-2. **[Angular E-commerce App](https://github.com/Behnam-Vosoogh/Angular-Ecommerce)**
+2. **[Angular E-commerce App](https://github.com/Behnam-Vosoogh/Angular_Ecommerce)**
    - An e-commerce web application developed using Angular, showcasing user authentication and dynamic product management.
 
-3. **[Emotion Detection App](https://github.com/Behnam-Vosoogh/Emotion-Detection-App)**
+3. **[Emotion Detection App](https://github.com/Behnam-Vosoogh/Emotion_Detection_App)**
    - An AI-powered emotion detection application using Watson NLP to analyze user emotions from text inputs.
 
 ---
