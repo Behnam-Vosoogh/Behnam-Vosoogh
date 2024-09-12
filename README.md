@@ -14,7 +14,6 @@ Welcome to my GitHub profile! I'm Behnam, a passionate Full Stack Developer with
 - **Cloud & DevOps**: Microsoft Azure, IBM Cloud, AWS, Docker, Kubernetes, CI/CD pipelines
 
 ---
-https://github.com/Behnam-Vosoogh/Angular_Ecommerce_Project
 
 ## 📂 Featured Projects
 1. **[Responsive HTML Page](https://github.com/Behnam-Vosoogh/Responsive_HTML_Page)**
@@ -23,9 +22,11 @@ https://github.com/Behnam-Vosoogh/Angular_Ecommerce_Project
 2. **[Angular E-commerce App](https://github.com/Behnam-Vosoogh/Angular_Ecommerce_Project)**
    - An e-commerce web application developed using Angular, showcasing user authentication and dynamic product management.
 
-3. **[Emotion Detection App](https://github.com/Behnam-Vosoogh/Emotion_Detection_App)**
-   - An AI-powered emotion detection application using Watson NLP to analyze user emotions from text inputs.
+3. **[View My Projects on GitHub](https://github.com/Behnam-Vosoogh?tab=repositories)
+   - A Cloud-Based Event Management Solution,This comprehensive event management solution is built on Microsoft Azure, leveraging ASP.NET      Core API for the backend and Blazor WebAssembly for the frontend.
 
+4. **[View All of My Projects](https://github.com/Behnam-Vosoogh?tab=repositories)**
+   - View All of my Projects.
 ---
 
 ## 📈 Experience
