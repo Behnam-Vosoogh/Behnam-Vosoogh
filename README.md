@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm Behnam, a passionate Full Stack Developer with
 2. **[Angular E-commerce App](https://github.com/Behnam-Vosoogh/Angular_Ecommerce_Project)**
    - An e-commerce web application developed using Angular, showcasing user authentication and dynamic product management.
 
-3. **[Cloud-Based Event Management Solution](https://github.com/Behnam-Vosoogh?tab=repositories)
+3. **[Cloud-Based Event Management Solution](https://github.com/Behnam-Vosoogh?tab=repositories)**
    - A Cloud-Based Event Management Solution,This comprehensive event management solution is built on Microsoft Azure, leveraging ASP.NET      Core API for the backend and Blazor WebAssembly for the frontend.
 
 4. **[View All of My Projects](https://github.com/Behnam-Vosoogh?tab=repositories)**
