@@ -53,7 +53,7 @@ Welcome to my GitHub profile! I'm Behnam, a passionate Full Stack Developer with
 Feel free to reach out for collaboration or inquiries:
 
 - **LinkedIn**: [Behnam Vosoogh](https://www.linkedin.com/in/behnam-vosoogh)
-- **Email**: [behnam.vosoogh@example.com](mailto:behnam.vosoogh@outlook.com)
+- **Email**: [behnam.vosoogh@outlook.com](mailto:behnam.vosoogh@outlook.com)
 
 ---
 
