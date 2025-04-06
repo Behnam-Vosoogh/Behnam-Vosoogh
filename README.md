@@ -1,60 +1,70 @@
-# Behnam Vosoogh, M.Sc., B.Ing, DEC
-### Full Stack Developer | Cloud Enthusiast | Mechanical Engineer
+# Behnam Vosoogh  
+**M.Sc., B.Ing, DEC – Full Stack Developer | Cloud Enthusiast | Mechanical Engineer**
 
-Welcome to my GitHub profile! I'm Behnam, a passionate Full Stack Developer with over 3 years of experience in designing, developing, and deploying scalable web and mobile applications. My expertise spans both frontend and backend technologies, with a strong focus on cloud computing and database management.
-
----
-
-## 🌟 Key Skills
-- **Programming Languages**: Java, C#, Python, Dart, C++, JavaScript, SQL, PL/SQL
-- **Frontend Development**: React.js, Angular, Flutter, HTML5, CSS3, JavaScript
-- **Backend Development**: ASP.NET, PHP, Django, Flask, .NET Core, REST APIs
-- **Mobile Development**: Android (Java), iOS (Flutter)
-- **Database Technologies**: Microsoft SQL Server, Oracle, MySQL, MongoDB, Firebase
-- **Cloud & DevOps**: Microsoft Azure, IBM Cloud, AWS, Docker, Kubernetes, CI/CD pipelines
+Welcome to my GitHub profile! I'm Behnam, a passionate Full Stack Developer with over 4 years of experience designing and deploying scalable web and mobile applications. I specialize in both frontend and backend development with a strong focus on cloud-native architectures and DevOps practices.
 
 ---
 
-## 📂 Featured Projects
-1. **[Responsive HTML Page](https://github.com/Behnam-Vosoogh/Responsive_HTML_Page)**
-   - A fully responsive HTML page showcasing modern web design techniques.
+## 🛠️ Tech Stack
 
-2. **[Angular E-commerce App](https://github.com/Behnam-Vosoogh/Angular_Ecommerce_Project)**
-   - An e-commerce web application developed using Angular, showcasing user authentication and dynamic product management.
-
-3. **[Cloud-Based Event Management Solution](https://github.com/Behnam-Vosoogh/EventManagmentSolution)**
-   - A Cloud-Based Event Management Solution,This comprehensive event management solution is built on Microsoft Azure, leveraging ASP.NET      Core API for the backend and Blazor WebAssembly for the frontend.
-
-4. **[View All of My Projects](https://github.com/Behnam-Vosoogh?tab=repositories)**
-   - View All of my Projects.
----
-
-## 📈 Experience
-- **Full Stack Developer** at Jesta I.S.
-   - Developed and maintained cloud-based applications using ASP.NET, Blazor, and Microsoft Azure.
-   - Implemented SQL database solutions, optimizing for performance and scalability.
-   
-- **Freelance Full Stack Developer**
-   - Worked on various full-stack projects, including mobile applications, database-driven websites, and AI-based solutions.
-   
-- **Mechanical Engineer**
-   - Specialized in simulation, writing code in Fortran and MATLAB for simulating solar power plants and nanofluid behaviors.
+**Languages**: Java, C#, JavaScript, Python, SQL, Dart, C++  
+**Frameworks**: Spring Boot, ASP.NET Core, Node.js, Angular, Flutter  
+**Databases**: MySQL, SQL Server, Oracle, PostgreSQL, MongoDB  
+**Cloud/DevOps**: Microsoft Azure, Docker, Kubernetes, GitHub Actions, CI/CD  
+**Tools**: Git, Jira, Postman, VS Code, IntelliJ, Azure DevOps
 
 ---
 
-## 📚 Education
-- **Master's Degree** in Mechanical Engineering
-- **Bachelor's Degree** in Mechanical Engineering
-- **DEC** in Computer Science Technology (Programming) from LaSalle College, Montreal
+## 🚀 Featured Projects
+
+- **[Employee Directory REST API](https://github.com/Behnam-Vosoogh/Spring-boot-REST-CRUD-employee)**  
+  Spring Boot REST API with full CRUD operations, MySQL, and PATCH support using Jackson.
+
+- **[Angular E-commerce App](https://github.com/Behnam-Vosoogh/Angular_Ecommerce_Project)**  
+  Fully functional Angular web application with cart, auth, and localStorage support.
+
+- **[Cloud-Based Event Management Solution](https://github.com/Behnam-Vosoogh/EventManagmentSolution)**  
+  Built on Azure using ASP.NET Core and Blazor WebAssembly for seamless event operations.
+
+- **[E-Commerce Microservices](https://github.com/Behnam-Vosoogh/E-Commerce-Microservices)**  
+  C# microservices-based architecture featuring inventory, payment, and order services.
+
+- **[Java Spring Boot + Hibernate](https://github.com/Behnam-Vosoogh/Java_Springboot-Hibernate)**  
+  Java Spring Boot application demonstrating Hibernate ORM and layered architecture.
+
+[👉 View All Projects](https://github.com/Behnam-Vosoogh?tab=repositories)
 
 ---
 
-## 📫 Let's Connect
-Feel free to reach out for collaboration or inquiries:
+## 💼 Experience
 
-- **LinkedIn**: [Behnam Vosoogh](https://www.linkedin.com/in/behnam-vosoogh)
-- **Email**: [behnam.vosoogh@outlook.com](mailto:behnam.vosoogh@outlook.com)
+**Full Stack Developer – Jesta I.S.**  
+Developed scalable enterprise applications using .NET Core, Spring Boot, and Azure.  
+Improved backend performance by 30% through optimized query logic and caching.
+
+**Instructor – LaSalle College**  
+Led workshops on Node.js, REST APIs, GraphQL, and Agile methodologies. Mentored students on full-stack projects and modern software architecture.
+
+**Mechanical Engineer – FPI**  
+Wrote numerical simulation code in C++ and MATLAB to optimize energy system design.
 
 ---
 
-**Thanks for visiting my GitHub profile!** 🚀
+## 🎓 Education
+
+- DEC in Computer Science Technology – Programming  
+- M.Sc. in Mechanical Engineering  
+- B.Ing in Mechanical Engineering
+
+---
+
+## 📬 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/behnam-vosoogh)  
+- 📧 [behnam.vosoogh@outlook.com](mailto:behnam.vosoogh@outlook.com)
+
+---
+
+![Behnam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Behnam-Vosoogh&show_icons=true&theme=default)
+
+**Thanks for visiting!** 👋
